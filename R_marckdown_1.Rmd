@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Documentos GitHub
 
-Este es un ejemplo básico del uso de R y Markdown para generar doumentos HTML, Word y PDF y publicarlos en GitHub. 
+Este es un ejemplo básico del uso de R y Markdown para generar doumentos HTML, Word y PDF.
 
 ## Código R
 
