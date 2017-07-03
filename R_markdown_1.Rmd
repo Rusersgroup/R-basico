@@ -1,5 +1,5 @@
 ---
-title: "R en marckdown"
+title: "R en markdown"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Documentos GitHub
+## Documentos Markdown generados con R
 
 Este es un ejemplo básico del uso de R y Markdown para generar doumentos HTML, Word y PDF.
 
