@@ -4,5 +4,5 @@
 
 > **Nota:**
 
-> - **Únete a la comunidad de usuarios de R en Ecuador [rusersgroup.com](https://rusersgroup.com)** 
+> - **Únete a la comunidad de usuarios de R en Ecuador [rusersgroup.com](https://www.rusersgroup.com)** 
 > - **Comparte esta web con tu red**
